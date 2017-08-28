@@ -7,4 +7,4 @@ This is an example site for the intro to front-end Web Development Course at the
 
 # Contact
 
-email: zangaraj2@gmail.com
+email: zangaraj2@gmail.co
